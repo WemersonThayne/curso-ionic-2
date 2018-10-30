@@ -1,6 +1,6 @@
 export class Movie {
     
-    public id: string;
+    public id: number;
 
     constructor(public title: string){
 
